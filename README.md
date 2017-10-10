@@ -11,3 +11,10 @@
 
 ## Description
 This Customizer application alters the appearance and function of Forum and Wiki updates in the Community Overview page. In the Forum and Wiki widgets on the community overview page, they each list recent updates from the respective applications. By default, each update has a like button on the right hand side. This Customizer application replaces the like button with a Watson button. When the user clicks the Watson button, it will post a link to the forum topic or wiki doc into a Watson Workspace space.
+
+## Screenshots
+
+![Screenshot 1](https://ibm.box.com/shared/static/lujh63aus7b9c2nattgqu6keptninnun.png)
+![Screenshot 2](https://ibm.box.com/shared/static/m194260achid5o5leufc41gx0uganodc.png)
+![Screenshot 3](https://ibm.box.com/shared/static/6rngrh580dbw2t4ofalh4ba4d8cezlwh.png)
+
