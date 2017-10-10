@@ -14,7 +14,6 @@ This Customizer application alters the appearance and function of Forum and Wiki
 
 ## Screenshots
 
-![Screenshot 1](https://ibm.box.com/shared/static/lujh63aus7b9c2nattgqu6keptninnun.png)
-![Screenshot 2](https://ibm.box.com/shared/static/m194260achid5o5leufc41gx0uganodc.png)
-![Screenshot 3](https://ibm.box.com/shared/static/6rngrh580dbw2t4ofalh4ba4d8cezlwh.png)
+![Screenshot 1](https://ibm.box.com/shared/static/g71b6rhjejrxodnr5fyo2w81shcr3g4i.png)
+![Screenshot 2](https://ibm.box.com/shared/static/q2x80jdnuasga8dao17jnmwfp6jhtw01.png)
 
