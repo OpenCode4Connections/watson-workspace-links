@@ -1,0 +1,25 @@
+{
+  "extensions": [
+    {
+      "path": "communities",
+      "application": "Watson Links Sample",
+      "payload": {
+        "include-files": [
+          "watsonWorkspaceLinks/watsonWorkspaceLinks.js"
+        ],
+        "match": {
+          "url": "communityUuid=[your-community-id]"
+        }
+      },
+      "name": "Watson Links Extension",
+      "type": "com.ibm.customizer.ui"
+    }
+  ],
+  "name": "Watson Links Sample",
+  "description": "Adds Watson Workspace links to a community",
+  "services": [
+    "Customizer"
+  ],
+  "id": "3912fbd4-7974-428d-9fd4-6d54aa7d10bc",
+  "title": "Watson Links Sample"
+}
